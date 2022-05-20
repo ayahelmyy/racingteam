@@ -1,0 +1,8 @@
+prefix=/home/aya/racingteam/devel
+
+Name: excersice_one
+Description: Description of excersice_one
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
